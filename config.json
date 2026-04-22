@@ -1,0 +1,10 @@
+{
+  "shop_name": "Bolen Ummi",
+  "owner_number": "6285783129201",
+  "address": "Jl. Contoh No.1, Jambi",
+  "location": {
+    "lat": -1.6101,
+    "lng": 103.6131
+  }
+}
+//lat/lng dari google maps
